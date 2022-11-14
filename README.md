@@ -1,3 +1,5 @@
+### Thanks for the awesome tutorial from Bedicode.
+
 # Responsive Sushi Website
 ## [Watch it on youtube](https://youtu.be/HW1zt2EPMqY)
 ### Responsive Sushi Website
